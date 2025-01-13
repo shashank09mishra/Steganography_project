@@ -1,6 +1,8 @@
 # Steganography_project
 This is my project of cybersecurity in sem 5
 This Steganography Tool allows users to securely encode and decode messages into PNG images using a password. The tool uses Fernet encryption for securing messages and LSB (Least Significant Bit) encoding for hiding data in images.
+this is the format of file 
+![image](https://github.com/user-attachments/assets/3edc7d18-6c7c-4059-aded-9493f7066e2a)
 
 Features
 
